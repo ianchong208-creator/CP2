@@ -12,7 +12,7 @@ Replacing an employee typically costs 50 to 200 percent of their annual salary. 
 
 IBM HR Analytics Employee Attrition dataset: 1,470 employees, 35 features, no missing values. Twenty-six numerical features and nine categorical ones, covering demographics, compensation, tenure and satisfaction. Of the 1,470 employees, 237 (16.1%) left and 1,233 (83.9%) stayed, which is the imbalance the whole pipeline is built around.
 
-The CSV itself isn't in this repo. You can get it from [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) and place it next to the notebook, or upload it directly when Colab asks.
+The CSV itself isn't in this repo. You can get it from [Kaggle](https://www.kaggle.com/datasets/bhanupratapbiswas/hr-analytics-case-study) and place it next to the notebook, or upload it directly when Colab asks.
 
 ## Method
 
@@ -75,7 +75,3 @@ pip install -r requirements.txt
 ## Author
 
 Ian Chong Yi Ren (22092902), BSDA, School of Computing and Artificial Intelligence, Sunway University. Supervised by Dr Samuel Mofoluwa Ajibade.
-
-## License
-
-No license has been added yet. If you want others to be able to reuse this, GitHub can generate one from Add file > Create new file in the repo.
